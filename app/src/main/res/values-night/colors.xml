@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#000000</color>
+    <color name="cardBackground">#212121</color>
+    <color name="textColor">#ffffffff</color>
+
+    <color name="severityError">#FF6B6B</color>
+    <color name="severityWarning">#FFB74D</color>
+    <color name="severityInfo">#81C784</color>
+    <color name="severityUnknown">#BDBDBD</color>
+
+    <color name="severityErrorSurface">#5D1F1F</color>
+    <color name="severityWarningSurface">#5A3A00</color>
+    <color name="severityInfoSurface">#1B4620</color>
+    <color name="severityUnknownSurface">#424242</color>
+</resources>
